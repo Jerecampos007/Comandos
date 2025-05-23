@@ -1,0 +1,4 @@
+import javax.swing.JOptionPane;                               exportar
+
+
+JOptionPane.showMessageDialog(null, "hola");                  mostrar mensaje pedorro
