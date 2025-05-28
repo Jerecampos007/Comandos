@@ -1,6 +1,9 @@
 import javax.swing.JOptionPane;                               exportar
 
 String x_mayus = x.toUpperCase();                             hacer mayúscula las letras
-
+int i = Xmayus1.compareTo(Xmayus2);                           si son iguales da 0 si no da 1.
+if (i == 0){                                                  Así pregunta si son iguales o no
+          
+}
 
 JOptionPane.showMessageDialog(null, "hola");                  mostrar mensaje pedorro
