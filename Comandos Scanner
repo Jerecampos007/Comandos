@@ -2,5 +2,6 @@ import java.util.Scanner;                                   Libreria
 
 Scanner sc = new Scanner(System.in);                        Nos deja usar los comandos Scanner
 
+sc.next();                                                  Lee la siguiente palabrota
 sc.nextLine();                                              Lee la siguientre linea, o sea, puede palabras con espacio
 sc.nextInt();                                               Lee el siguiente Int
