@@ -1,4 +1,6 @@
 import javax.swing.JOptionPane;                               exportar
 
+String x_mayus = x.toUpperCase();                             hacer mayúscula las letras
+
 
 JOptionPane.showMessageDialog(null, "hola");                  mostrar mensaje pedorro
