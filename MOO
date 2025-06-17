@@ -34,4 +34,10 @@ Nombre_de_la_clase  identificador  = new Nombre_del_Objeto()
 **        Persona Pp = new Persona();         **
 ************************************************
 
+int numEntero = solicitarEntero.solicitarInt
+
+public int solicitarInt(String msj, String tit){
+    int numEntero = Integer.parseInt(JOptionPane.showInputDialog(null, msj, tit, JOptionPane.INFORMATION_MESSAGE));
+    return numEntero;
+
 
