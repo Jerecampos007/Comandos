@@ -1,0 +1,37 @@
+Principal como Void Static main(String[] args){}
+
+las demas como pulic void x(){}
+
+las variables publicas, aquellas que se tienen que usar en todo lado van fuera en el class
+
+                          EJEMPLO
+***********************************************************************
+public class taka{
+
+
+String wazaaaa;        Esta variable va a estar en todo el programa
+
+Public static void main(String[] args){
+
+}
+
+***********************************************************************
+
+
+Detalles del Static void main:
+este no puede tener un Boolean / verdadero y falso, ya que es estatico y solo mandara una sennal
+Este es el principal (De ahi el Main) este sera el que corra todo.
+
+
+
+
+Para iniciar un Objeto es
+
+Nombre_de_la_clase  identificador  = new Nombre_del_Objeto()
+
+                    Ejemplo
+************************************************
+**        Persona Pp = new Persona();         **
+************************************************
+
+
